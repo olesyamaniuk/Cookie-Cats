@@ -233,6 +233,9 @@ a {
   display: none;
 }
 @media screen and (min-width: 1200px) {
+  .policy-terms-header__icon--menu {
+    display: none;
+  }
   .header {
     height: 100px;
     padding: 29px 46px;
